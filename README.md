@@ -1,1 +1,1 @@
-My Portfolio created using HTMML, CSS, bit of JS.
+My Portfolio created using HTMML, CSS, bit and JS.
